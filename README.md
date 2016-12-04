@@ -1,2 +1,6 @@
 # img-show
-imgage show core
+imgage say core
+
+###run
+npm install
+
